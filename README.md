@@ -13,6 +13,9 @@ ratio 是相对于额定处理效果的比率。线路 units 中的柱串联且�
 - `delivery.json` 记录字段为 `window`、`min_qty`、`max_combined_risk`。
 - `thresholds.json` 记录字段为 `feed`、`min_ratio`、`window_ready`。
 - `maintenance.json` 记录字段为 `window`、`crew_slots`、`restart`。
+- `product_rules.json` 记录字段为 `customer`、`grade`、`hold_allowed`、`latest`、`minimum`。
+- `handoffs.json` 记录字段为 `piece`、`line`、`qty`、`col`、`window`、`condition`、`customer`。
+- `storage.json` 记录字段为 `window`、`hold_volume`、`lab_slots`。
 
 ## 运行
 

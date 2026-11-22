@@ -1,0 +1,38 @@
+[
+  {
+    "piece": "P1",
+    "line": "A",
+    "qty": "30",
+    "col": "C1",
+    "window": "W1",
+    "condition": "已签发",
+    "customer": "CTA"
+  },
+  {
+    "piece": "P2",
+    "line": "B",
+    "qty": "25",
+    "col": "C2",
+    "window": "W1",
+    "condition": "待检",
+    "customer": "CTC"
+  },
+  {
+    "piece": "P3",
+    "line": "A",
+    "qty": "12",
+    "col": "C1",
+    "window": "W1",
+    "condition": "已发",
+    "customer": "CTA"
+  },
+  {
+    "piece": "P4",
+    "line": "B",
+    "qty": "12",
+    "col": "C2",
+    "window": "W2",
+    "condition": "重检",
+    "customer": "CTB"
+  }
+]

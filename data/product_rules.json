@@ -1,0 +1,23 @@
+[
+  {
+    "customer": "CTA",
+    "grade": "稳定",
+    "hold_allowed": "no",
+    "latest": "W1",
+    "minimum": "65"
+  },
+  {
+    "customer": "CTB",
+    "grade": "稳定",
+    "hold_allowed": "no",
+    "latest": "W2",
+    "minimum": "50"
+  },
+  {
+    "customer": "CTC",
+    "grade": "待检",
+    "hold_allowed": "yes",
+    "latest": "W1",
+    "minimum": "25"
+  }
+]
