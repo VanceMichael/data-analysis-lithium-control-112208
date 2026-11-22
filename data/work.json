@@ -1,0 +1,23 @@
+[
+  {
+    "task": "M1",
+    "column": "C3",
+    "period": "W1",
+    "status": "已开工",
+    "authority": "不可移位"
+  },
+  {
+    "task": "M2",
+    "column": "C1",
+    "period": "W2",
+    "status": "已签",
+    "authority": "班长"
+  },
+  {
+    "task": "M3",
+    "column": "C2",
+    "period": "W1",
+    "status": "候选",
+    "authority": "计划员"
+  }
+]

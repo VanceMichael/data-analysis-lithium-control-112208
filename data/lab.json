@@ -1,0 +1,16 @@
+[
+  {
+    "column": "C1",
+    "day": "3",
+    "revision": "2",
+    "ratio": "0.83",
+    "state": "报告待复核"
+  },
+  {
+    "column": "C2",
+    "day": "4",
+    "revision": "2",
+    "ratio": "0.73",
+    "state": "有效"
+  }
+]

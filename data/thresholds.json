@@ -1,0 +1,12 @@
+[
+  {
+    "feed": "A",
+    "min_ratio": "0.78",
+    "window_ready": "1"
+  },
+  {
+    "feed": "B",
+    "min_ratio": "0.82",
+    "window_ready": "1"
+  }
+]

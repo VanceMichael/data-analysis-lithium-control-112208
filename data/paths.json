@@ -1,0 +1,14 @@
+[
+  {
+    "line": "A",
+    "units": "C1+C3",
+    "capacity": "74",
+    "backup": "C4"
+  },
+  {
+    "line": "B",
+    "units": "C2",
+    "capacity": "55",
+    "backup": "C4"
+  }
+]

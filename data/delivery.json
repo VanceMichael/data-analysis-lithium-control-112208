@@ -1,0 +1,12 @@
+[
+  {
+    "window": "W1",
+    "min_qty": "90",
+    "max_combined_risk": "0.1"
+  },
+  {
+    "window": "W2",
+    "min_qty": "100",
+    "max_combined_risk": "0.12"
+  }
+]

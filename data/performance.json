@@ -1,0 +1,164 @@
+[
+  {
+    "column": "C1",
+    "load_lot": "L1",
+    "day": "1",
+    "feed": "A",
+    "processed": "48",
+    "ratio": "0.98",
+    "state": "运行"
+  },
+  {
+    "column": "C1",
+    "load_lot": "L1",
+    "day": "3",
+    "feed": "A",
+    "processed": "55",
+    "ratio": "0.77",
+    "state": "运行"
+  },
+  {
+    "column": "C1",
+    "load_lot": "L1",
+    "day": "4",
+    "feed": "B",
+    "processed": "25",
+    "ratio": "0.9",
+    "state": "旁路"
+  },
+  {
+    "column": "C2",
+    "load_lot": "L1",
+    "day": "1",
+    "feed": "A",
+    "processed": "43",
+    "ratio": "0.99",
+    "state": "运行"
+  },
+  {
+    "column": "C2",
+    "load_lot": "L1",
+    "day": "3",
+    "feed": "A",
+    "processed": "54",
+    "ratio": "0.8",
+    "state": "运行"
+  },
+  {
+    "column": "C2",
+    "load_lot": "L1",
+    "day": "4",
+    "feed": "A",
+    "processed": "52",
+    "ratio": "?",
+    "state": "缺测"
+  },
+  {
+    "column": "C3",
+    "load_lot": "L2",
+    "day": "2",
+    "feed": "A",
+    "processed": "33",
+    "ratio": "0.92",
+    "state": "运行"
+  },
+  {
+    "column": "C3",
+    "load_lot": "L2",
+    "day": "3",
+    "feed": "A",
+    "processed": "0",
+    "ratio": "?",
+    "state": "计划拆除"
+  },
+  {
+    "column": "C4",
+    "load_lot": "L3",
+    "day": "2",
+    "feed": "B",
+    "processed": "64",
+    "ratio": "0.95",
+    "state": "运行"
+  },
+  {
+    "column": "C4",
+    "load_lot": "L3",
+    "day": "4",
+    "feed": "B",
+    "processed": "65",
+    "ratio": "0.91",
+    "state": "运行"
+  },
+  {
+    "column": "C5",
+    "load_lot": "L1",
+    "day": "1",
+    "feed": "A",
+    "processed": "39",
+    "ratio": "0.97",
+    "state": "运行"
+  },
+  {
+    "column": "C5",
+    "load_lot": "L1",
+    "day": "3",
+    "feed": "A",
+    "processed": "60",
+    "ratio": "0.79",
+    "state": "运行"
+  },
+  {
+    "column": "C5",
+    "load_lot": "L1",
+    "day": "4",
+    "feed": "A",
+    "processed": "65",
+    "ratio": "0.72",
+    "state": "运行"
+  },
+  {
+    "column": "C6",
+    "load_lot": "L2",
+    "day": "1",
+    "feed": "A",
+    "processed": "34",
+    "ratio": "0.93",
+    "state": "运行"
+  },
+  {
+    "column": "C6",
+    "load_lot": "L2",
+    "day": "2",
+    "feed": "A",
+    "processed": "61",
+    "ratio": "0.87",
+    "state": "运行"
+  },
+  {
+    "column": "C6",
+    "load_lot": "L2",
+    "day": "4",
+    "feed": "A",
+    "processed": "59",
+    "ratio": "0.69",
+    "state": "运行"
+  },
+  {
+    "column": "C7",
+    "load_lot": "L1",
+    "day": "1",
+    "feed": "B",
+    "processed": "39",
+    "ratio": "0.91",
+    "state": "运行"
+  },
+  {
+    "column": "C7",
+    "load_lot": "L1",
+    "day": "3",
+    "feed": "B",
+    "processed": "59",
+    "ratio": "0.85",
+    "state": "运行"
+  }
+]
